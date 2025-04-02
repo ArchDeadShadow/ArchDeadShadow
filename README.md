@@ -1,4 +1,4 @@
-![Header](./img/github_header_image_compressed.png)
+![Header](./img/github_header_image_samurai_compressed.png)
 
 <header>
   <h1 align="center">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems.</h1>
