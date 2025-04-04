@@ -7,39 +7,39 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
   <style>
-    body {
+  body{
       min-height: 100vh;
       font-family: "JetBrains Mono", monospace;
       font-optical-sizing: auto;
       font-weight: 400;
       font-style: normal;
     }
-    main {
+    main{
       margin: 32px 0;
     }
-    .social, .support, h1, h2, h3 {
+    .social, .support, h1, h2, h3{
       text-align: center;
     }
-    .tech_icons {
+    .tech_icons{
       text-align: center;
       display: flex;
       flex-wrap: wrap;
       gap: 4px;
       justify-content: center;
     }
-    .github_header_image_dev {
+    .github_header_image_dev{
       text-align: center;
       margin: 0 auto;
       padding: 1px;
       border-radius: 16px;
       position: relative;
     }
-    @property --angle {
+    @property --angle{
       syntax: "<angle>";
       initial-value: 0deg;
       inherits: false;
     }
-    .github_header_image_dev::after, .github_header_image_dev::before {
+    .github_header_image_dev::after, .github_header_image_dev::before{
       content: '';
       position: absolute;
       height: 100%;
@@ -53,15 +53,15 @@
       border-radius: 16px;
       animation: 7s spin linear infinite;
     }
-    .github_header_image_dev::before {
+    .github_header_image_dev::before{
       filter: blur(3rem);
       opacity: 0.5;
     }
-    @keyframes spin {
-      from {
+    @keyframes spin{
+      from{
         --angle: 0deg;
       }
-      to {
+      to{
         --angle: 360deg;
       }
     }
