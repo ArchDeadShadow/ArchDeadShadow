@@ -40,9 +40,18 @@ Check out my repositories below to see examples of:
 </main>
 
 <footer>
+    <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="img/svg/snake/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="img/svg/snake/github-snake.svg">
+      <img alt="github-snake" src="img/svg/snake/github-snake-dark.svg">
+    </picture>
+  </div>
+  <br>
   <div align="center" style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 4px">
   </div>
+  <br>
   <div align="left">
     <h3 align="left">💸 Support Me</h3>
     <p align="left"><a href="https://www.paypal.com/donate/?hosted_button_id=QCEZHJJG8HRD8" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
