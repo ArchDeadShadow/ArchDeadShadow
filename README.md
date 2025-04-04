@@ -1,6 +1,11 @@
-![Header](./img/github_header_image_dev_compressed.png)
-
 <header>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/header_main_image/compressed/github_header_image_dev_dark_compressed.png">
+      <source media="(prefers-color-scheme: light)" srcset="./img/header_main_image/compressed/github-header-image_dev_light_compressed.png">
+      <img alt="github-snake" src="./img/header_main_image/compressed/github_header_image_dev_dark_compressed.png">
+    </picture>
+  </div>
   <h1 align="center">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems.</h1>
   <h2 align="center">⚡ Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h2>
   <h3 align="center">🚀 Open to collaborations, open-source contributions, and interesting challenges. Feel free to reach out for technical discussions or potential opportunities! Connect with me:</h3>
@@ -46,9 +51,9 @@ Check out my repositories below to see examples of:
 <footer>
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="img/svg/snake/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="img/svg/snake/github-snake.svg">
-      <img alt="github-snake" src="img/svg/snake/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./img/snake_game_contribution_calendar/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./img/snake_game_contribution_calendar/github-snake.svg">
+      <img alt="github-snake" src="./img/snake_game_contribution_calendar/github-snake-dark.svg">
     </picture>
   </div>
   <br>
