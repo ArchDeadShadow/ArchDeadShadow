@@ -7,7 +7,7 @@
   <div align="center">
     <a href="https://twitter.com/ArchDeadShadow" target="_blank"><img src="https://img.shields.io/badge/  Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
     <a href="https://www. instagram.com/archdeadshadow" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square& logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a>
-    <a href="https://www.linkedin.com/in/ sergey-r-a52219230" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&  logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
+    <a href="https://www.linkedin.com/in/sergey-r-a52219230" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&  logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
   </div>
 </header>
 
@@ -52,7 +52,7 @@ Check out my repositories below to see examples of:
     </picture>
   </div>
   <br>
-  <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px">
     <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px">
     <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px">
