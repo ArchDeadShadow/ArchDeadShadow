@@ -54,7 +54,6 @@ h3 {
 	z-index: -1;
 	padding: 1px;
 	border-radius: 16px;
-	animation: 7s spin linear infinite;
 }
 .github_header_image_dev::before {
 	filter: blur(3rem);
