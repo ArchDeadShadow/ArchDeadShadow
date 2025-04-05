@@ -4,7 +4,32 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./style.css">
+  <style>
+    body {
+	    min-height: 100vh;
+	    font-family: 'JetBrains Mono', monospace;
+	    font-optical-sizing: auto;
+	    font-weight: 400;
+	    font-style: normal;
+    }
+    main {
+	    margin: 32px 0;
+    }
+    .social, .snake_game_contribution_calendar, .support, h1, h2, h3 {
+	    text-align: center;
+    }
+    .tech_icons {
+	    text-align: center;
+	    display: flex;
+	    flex-wrap: wrap;
+	    gap: 4px;
+	    justify-content: center;
+    }
+    .github_header_image_dev {
+	    text-align: center;
+	    margin: 0 auto;
+    }
+</style>
 </head>
 <body>
   <header>
@@ -54,7 +79,7 @@
     </ul>
   </main>
   <footer>
-    <div class="snake_game_contribution_calendar" align="center">
+    <div class="snake_game_contribution_calendar">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/snake_game_contribution_calendar/github-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="./img/snake_game_contribution_calendar/github-snake.svg">
@@ -62,7 +87,7 @@
       </picture>
     </div>
     <br>
-    <div class="tech_icons" align="center">
+    <div class="tech_icons">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px">
       <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px">
       <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px">
