@@ -23,8 +23,8 @@
     </div>
   </header>
   <main style="margin: 30px auto">
-  <h1 align="center" style="margin: 30px auto">🦉 Skills</h1>
-  <h3 align="center" style="margin: 25px auto">💻 Technical Toolkit</h3>
+  <h1 align="center" style="margin: 30px auto;padding-bottom: 30px;font-weight: bold">🦉 Skills</h1>
+  <h3 align="center" style="margin: 36px auto">💻 Technical Toolkit</h3>
     <ul align="left">
       <li><strong>Languages</strong>: JavaScript (ES6+), HTML5, CSS3</li>
       <li><strong>Frontend</strong>: React.js (Hooks, Context API, React Router)</li>
@@ -32,17 +32,17 @@
       <li><strong>Databases</strong>: MongoDB (Mongoose ODM, database design)</li>
       <li><strong>Tools</strong>: Git, REST APIs, Webpack, npm/yarn</li>
     </ul>
-    <h3 align="center" style="margin: 25px auto">😎 What I Do Best</h3>
+    <h3 align="center" style="margin: 36px auto">😎 What I Do Best</h3>
     <ul align="left">
       <li>Develop responsive SPAs with React</li>
       <li>Create RESTful APIs using Node.js/Express</li>
       <li>Design efficient database architectures with MongoDB</li>
       <li>Implement full-stack solutions from concept to deployment</li>
     </ul>
-    <h3 align="center" style="margin: 25px auto">📌 Current Focus</h3>
-    <p align="center">Sharpening my skills in performance optimization and exploring TypeScript integration. Always learning new patterns and best practices!</p>
-    <h3 align="center" style="margin: 25px auto">🗂️ Featured Projects</h3>
-    <p align="center">Check out my repositories below to see examples of:</p>
+    <h3 align="center" style="margin: 36px auto">📌 Current Focus</h3>
+    <p align="center" style="margin: 16px auto">Sharpening my skills in performance optimization and exploring TypeScript integration. Always learning new patterns and best practices!</p>
+    <h3 align="center" style="margin: 36px auto">🗂️ Featured Projects</h3>
+    <p align="center" style="margin: 16px auto">Check out my repositories below to see examples of:</p>
     <ul align="left">
       <li>Full-stack <strong>MERN</strong> applications</li>
       <li>Reusable React components</li>
