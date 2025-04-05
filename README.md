@@ -50,7 +50,7 @@
       <li>Database optimization techniques</li>
     </ul>
   </main>
-  <footer>
+  <footer style="margin: 30px auto">
     <div align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/snake_game_contribution_calendar/github-snake-dark.svg">
