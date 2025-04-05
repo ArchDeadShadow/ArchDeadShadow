@@ -75,9 +75,9 @@
       </picture>
     </div>
     <br>
-    #👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems.</h1>
-    ##⚡ Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h2>
-    ##🚀 Open to collaborations, open-source contributions, and interesting challenges. Feel free to reach out for technical discussions or potential opportunities! Connect with me:</h3>
+    <h1>👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems.</h1>
+    <h2>⚡ Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h2>
+    <h3>🚀 Open to collaborations, open-source contributions, and interesting challenges. Feel free to reach out for technical discussions or potential opportunities! Connect with me:</h3>
     <div class="social">
       <a href="https://twitter.com/ArchDeadShadow" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
       <a href="https://www.instagram.com/archdeadshadow" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a>
