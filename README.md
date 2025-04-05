@@ -23,7 +23,7 @@
     </div>
   </header>
   <main style="margin: 30px auto">
-  <h1 align="center" style="margin: 30px auto;padding-bottom: 30px;font-weight: bold">🦉 Skills</h1>
+  <h1 align="center" style="margin: 30px auto;">🦉 Skills</h1>
   <h3 align="center" style="margin: 36px auto">💻 Technical Toolkit</h3>
     <ul align="left">
       <li><strong>Languages</strong>: JavaScript (ES6+), HTML5, CSS3</li>
