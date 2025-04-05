@@ -25,37 +25,4 @@ h3 {
 .github_header_image_dev {
 	text-align: center;
 	margin: 0 auto;
-	padding: 1px;
-	border-radius: 16px;
-	position: relative;
-}
-@property --angle {
-	syntax: '<angle>';
-	initial-value: 0deg;
-	inherits: false;
-}
-.github_header_image_dev::after,
-.github_header_image_dev::before {
-	content: '';
-	position: absolute;
-	height: 100%;
-	width: 100%;
-	background-image: conic-gradient(
-		from var(--angle),
-		#ff4545,
-		#00ff99,
-		#006aff,
-		#ff0095,
-		#ff4545
-	);
-	top: 50%;
-	left: 50%;
-	translate: -50% -50%;
-	z-index: -1;
-	padding: 1px;
-	border-radius: 16px;
-}
-.github_header_image_dev::before {
-	filter: blur(3rem);
-	opacity: 0.5;
 }
