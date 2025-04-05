@@ -59,11 +59,3 @@ h3 {
 	filter: blur(3rem);
 	opacity: 0.5;
 }
-@keyframes spin {
-	from {
-		--angle: 0deg;
-	}
-	to {
-		--angle: 360deg;
-	}
-}
