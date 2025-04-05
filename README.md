@@ -4,32 +4,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
-  <style>
-    body {
-	    min-height: 100vh;
-	    font-family: 'JetBrains Mono', monospace;
-	    font-optical-sizing: auto;
-	    font-weight: 400;
-	    font-style: normal;
-    }
-    main {
-	    margin: 32px 0;
-    }
-    .social, .snake_game_contribution_calendar, .support, h1, h2, h3 {
-	    text-align: center;
-    }
-    .tech_icons {
-	    text-align: center;
-	    display: flex;
-	    flex-wrap: wrap;
-	    gap: 4px;
-	    justify-content: center;
-    }
-    .github_header_image_dev {
-	    text-align: center;
-	    margin: 0 auto;
-    }
-</style>
+  <style>body{min-height:100vh;font-family:'JetBrains Mono',monospace;font-optical-sizing:auto;font-weight:400;font-style:normal;}main{margin:32px 0;}.social,.snake_game_contribution_calendar,.support,h1,h2,h3{text-align:center;}.tech_icons{text-align:center;display:flex;flex-wrap:wrap;gap:4px;justify-content:center;}.github_header_image_dev{text-align:center;margin:0 auto;}</style>
 </head>
 <body>
   <header>
