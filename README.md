@@ -10,7 +10,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/header_main_image/compressed/github_header_image_dev_dark_compressed.gif">
         <source media="(prefers-color-scheme: light)" srcset="./img/header_main_image/compressed/github-header-image_dev_light_compressed.gif">
-        <img src="./img/header_main_image/compressed/github-header-image_dev_light_compressed.gif" alt="GIF animation of the main image" height="400" width="800">
+        <img src="./img/header_main_image/compressed/github-header-image_dev_light_compressed.gif" alt="GIF animation of the main image" style="max-width:100%; max-hight:100%">
       </picture>
     </div>
     <h1 align="center" style="margin: 30px auto">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems</h1>
@@ -63,7 +63,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/snake_game_contribution_calendar/github-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="./img/snake_game_contribution_calendar/github-snake.svg">
-        <img alt="github-snake" src="./img/snake_game_contribution_calendar/github-snake-dark.svg">
+        <img alt="github-snake" src="./img/snake_game_contribution_calendar/github-snake-dark.svg" style="max-width:100%; max-hight:100%">
       </picture>
     </div>
     <br>
