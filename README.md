@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="Sergey Rudenko, Sergey Rudenko GitHub, ArchDeadShadow, ArchDeadShadow GitHub, Fullstack Developer, Front-End Developer, Back-End Developer, JavaScript Developer, React Developer, JavaScript, TypeScript, React, React Hooks, Context API, React Router, Node.js, Express.js, MongoDB, Mongoose, HTML5, CSS3, SASS, Tailwind CSS, Bootstrap, REST API, Git, GitHub, Webpack, npm, yarn, Docker, Bash, jQuery, React Query, MERN Stack, Single Page Applications, SPA, API Development, Database Architecture, Performance Optimization, Scalable Applications, Component-based Development, E-commerce Development, Open Source, UX/UI, Continuous Learning, Technical Discussions, Software Engineering">
+  <meta name="author" content="Sergey Rudenko (ArchDeadShadow)">
+  <meta name="description" content="Sergey Rudenko (ArchDeadShadow) – Fullstack JavaScript Developer specializing in React, Node.js, and MongoDB. Experienced in building scalable Single Page Applications (SPAs), REST APIs, and modern front-end interfaces using React.js, TypeScript, Tailwind CSS, and Express.js. Passionate about clean code, performance optimization, and open-source development.">
 </head>
 <body>
   <header style="margin: 30px auto;max-width:100%;max-hight:100%;">
