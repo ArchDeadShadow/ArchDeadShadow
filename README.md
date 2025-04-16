@@ -24,11 +24,12 @@
       <a href="https://t.me/ArchDeadShadow" target="_blank"><img src="./img/icons/telegram.svg" alt="Telegram" height="30"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://vk.com/archdeadshadow" target="_blank"><img src="./img/icons/vk.svg" alt="VK" height="30"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://x.com/ArchDeadShadow" target="_blank">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/x-light.svg" type="image/svg+xml">
-        <source media="(prefers-color-scheme: light)" srcset="./img/icons/x-dark.svg" type="image/svg+xml">
-        <img src="./img/icons/x-dark.svg" alt="X" height="30">
-      </picture></a>&nbsp;&nbsp;&nbsp;
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./img/icons/x-light.svg" type="image/svg+xml">
+          <source media="(prefers-color-scheme: light)" srcset="./img/icons/x-dark.svg" type="image/svg+xml">
+          <img src="./img/icons/x-dark.svg" alt="X" height="30">
+        </picture>
+      </a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.instagram.com/archdeadshadow" target="_blank"><img src="./img/icons/instagram.svg" alt="Instagram" height="30"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/sergey-r-a52219230" target="_blank"><img src="./img/icons/linkedin.svg" alt="LinkedIn" height="30"></a>&nbsp;&nbsp;&nbsp;
     </div>
@@ -71,38 +72,44 @@
     </div>
     <br>
     <div align="center" style="max-width:100%;max-hight:100%;display: flex;flex-wrap: wrap;justify-content: center;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/markdown-dark.svg" type="image/svg+xml">
-        <source media="(prefers-color-scheme: light)" srcset="./img/icons/markdown-light.svg" type="image/svg+xml">
-      <img src="./img/icons/markdown-light.svg" height="30" alt="Markdown">
-      </picture>&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/figma.svg" height="30" alt="Figma">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/html5.svg" height="30" alt="HTML5">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/css3.svg" height="30" alt="CSS3">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/sass.svg" height="30" alt="SASS">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/tailwindcss.svg" height="30" alt="Tailwind CSS">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/bootstrap5.svg" height="30" alt="Bootstrap">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/bash.svg" height="30" alt="Bash">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/git.svg" height="30" alt="GIT">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/javascript.svg" height="30" alt="JavaScript">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/typescript.svg" height="30" alt="TypeScript">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/jquery.svg" height="30" alt="jQuery">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/reactjs.svg" height="30" alt="React">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/react-query.svg" height="30" alt="React Query">&nbsp;&nbsp;&nbsp;
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/react-router-dark.svg" type="image/svg+xml">
-        <source media="(prefers-color-scheme: light)" srcset="./img/icons/react-router-light.svg" type="image/svg+xml">
-        <img src="./img/icons/react-router-light.svg" height="30" alt="React Router">&nbsp;&nbsp;&nbsp;
-      </picture>&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/nodejs.svg" height="30" alt="Node.js">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/npm.svg" height="30" alt="NPM">&nbsp;&nbsp;&nbsp;
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/expressjs-light.svg" type="image/svg+xml">
-        <source media="(prefers-color-scheme: light)" srcset="./img/icons/expressjs-dark.svg" type="image/svg+xml">
-        <img src="./img/icons/expressjs-dark.svg" height="30" alt="Express">
-      </picture>&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/mongodb.svg" height="30" alt="MongoDB">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/docker.svg" height="30" alt="Docker">&nbsp;&nbsp;&nbsp;
+      <a href="https://www.markdownguide.org" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./img/icons/markdown-dark.svg" type="image/svg+xml">
+          <source media="(prefers-color-scheme: light)" srcset="./img/icons/markdown-light.svg" type="image/svg+xml">
+          <img src="./img/icons/markdown-light.svg" height="30" alt="Markdown">
+        </picture>
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.figma.com/" target="_blank"><img src="./img/icons/figma.svg" height="30" alt="Figma"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./img/icons/html5.svg" height="30" alt="HTML5"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank"><img src="./img/icons/css3.svg" height="30" alt="CSS3"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://sass-lang.com" target="_blank"><img src="./img/icons/sass.svg" height="30" alt="SASS"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://tailwindcss.com" target="_blank"><img src="./img/icons/tailwindcss.svg" height="30" alt="Tailwind CSS"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://getbootstrap.com/" target="_blank"><img src="./img/icons/bootstrap5.svg" height="30" alt="Bootstrap"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.gnu.org/software/bash" target="_blank"><img src="./img/icons/bash.svg" height="30" alt="Bash"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://git-scm.com" target="_blank"><img src="./img/icons/git.svg" height="30" alt="GIT"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript" target="_blank"><img src="./img/icons/javascript.svg" height="30" alt="JavaScript"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.typescriptlang.org" target="_blank"><img src="./img/icons/typescript.svg" height="30" alt="TypeScript"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://jquery.com" target="_blank"><img src="./img/icons/jquery.svg" height="30" alt="jQuery"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://react.dev" target="_blank"><img src="./img/icons/reactjs.svg" height="30" alt="React"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/TanStack/query#readme" target="_blank"><img src="./img/icons/react-query.svg" height="30" alt="React Query"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://reactrouter.com" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./img/icons/react-router-dark.svg" type="image/svg+xml">
+          <source media="(prefers-color-scheme: light)" srcset="./img/icons/react-router-light.svg" type="image/svg+xml">
+          <img src="./img/icons/react-router-light.svg" height="30" alt="React Router">&nbsp;&nbsp;&nbsp;
+        </picture>
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://nodejs.org" target="_blank"><img src="./img/icons/nodejs.svg" height="30" alt="Node.js"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.npmjs.com/" target="_blank"><img src="./img/icons/npm.svg" height="30" alt="NPM"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://expressjs.com" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./img/icons/expressjs-light.svg" type="image/svg+xml">
+          <source media="(prefers-color-scheme: light)" srcset="./img/icons/expressjs-dark.svg" type="image/svg+xml">
+          <img src="./img/icons/expressjs-dark.svg" height="30" alt="Express">
+        </picture>
+      </a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.mongodb.com" target="_blank"><img src="./img/icons/mongodb.svg" height="30" alt="MongoDB"></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.docker.com" target="_blank"><img src="./img/icons/docker.svg" height="30" alt="Docker"></a>&nbsp;&nbsp;&nbsp;
     </div>
     <br>
     <div align="center" style="max-width:100%;max-hight:100%;">
