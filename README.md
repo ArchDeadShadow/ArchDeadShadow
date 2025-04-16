@@ -68,7 +68,11 @@
     </div>
     <br>
     <div align="center" style="max-width:100%;max-hight:100%;display: flex;flex-wrap: wrap;justify-content: center;">
-      <img src="./img/icons/markdown.svg" height="30" alt="Markdown">&nbsp;&nbsp;&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/markdown-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./img/icons/markdown-light.svg">
+      <img src="./img/icons/markdown-light.svg" height="30" alt="Markdown">&nbsp;&nbsp;&nbsp;
+      </picture>&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/figma.svg" height="30" alt="Figma">&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/html5.svg" height="30" alt="HTML5">&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/css3.svg" height="30" alt="CSS3">&nbsp;&nbsp;&nbsp;
@@ -82,22 +86,27 @@
       <img src="./img/icons/jquery.svg" height="30" alt="jQuery">&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/reactjs.svg" height="30" alt="React">&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/react-query.svg" height="30" alt="React Query">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/reactrouter.svg" height="30" alt="React Router">&nbsp;&nbsp;&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/react-router-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./img/icons/react-router-light.svg">
+        <img src="./img/icons/react-router-light.svg" height="30" alt="React Router">&nbsp;&nbsp;&nbsp;
+      </picture>&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/nodejs.svg" height="30" alt="Node.js">&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/npm.svg" height="30" alt="NPM">&nbsp;&nbsp;&nbsp;
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/icons/expressjs-light.svg">
         <source media="(prefers-color-scheme: light)" srcset="./img/icons/expressjs-dark.svg">
-        <img src="./img/icons/expressjs-dark.svg" height="28" alt="Express">
+        <img src="./img/icons/expressjs-dark.svg" height="30" alt="Express">
       </picture>&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/mongodb.svg" height="28" alt="MongoDB">&nbsp;&nbsp;&nbsp;
-      <img src="./img/icons/docker.svg" height="28" alt="Docker">&nbsp;&nbsp;&nbsp;
+      <img src="./img/icons/mongodb.svg" height="30" alt="MongoDB">&nbsp;&nbsp;&nbsp;
+      <img src="./img/icons/docker.svg" height="30" alt="Docker">&nbsp;&nbsp;&nbsp;
     </div>
     <br>
     <div align="center" style="max-width:100%;max-hight:100%;">
       <h3>💸 Support Me</h3>
       <p><a href="https://www.paypal.com/donate/?hosted_button_id=QCEZHJJG8HRD8" target="_blank"><img src="img/icons/paypal.svg" height="80"></a></p>
     </div>
+
   </footer>
 </body>
 </html>
