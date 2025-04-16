@@ -8,9 +8,9 @@
   <header style="margin: 30px auto">
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/header_main_image/compressed/github_header_image_dev_dark_compressed.png">
-        <source media="(prefers-color-scheme: light)" srcset="./img/header_main_image/compressed/github-header-image_dev_light_compressed.png">
-        <img alt="github-snake" src="./img/header_main_image/compressed/github_header_image_dev_dark_compressed.png">
+        <source media="(prefers-color-scheme: dark)" srcset="./img/header_main_image/compressed/github_header_image_dev_dark_compressed.gif">
+        <source media="(prefers-color-scheme: light)" srcset="./img/header_main_image/compressed/github-header-image_dev_light_compressed.gif">
+        <img alt="github-snake" src="./img/header_main_image/compressed/github-header-image_dev_light_compressed.gif">
       </picture>
     </div>
     <h1 align="center" style="margin: 30px auto">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems</h1>
