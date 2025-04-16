@@ -11,8 +11,8 @@
   <header style="margin: 30px auto;max-width:100%;max-hight:100%;">
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/header_main_image/compressed/github_header_image_dev_dark_compressed.gif">
-        <source media="(prefers-color-scheme: light)" srcset="./img/header_main_image/compressed/github-header-image_dev_light_compressed.gif">
+        <source media="(prefers-color-scheme: dark)" srcset="./img/header_main_image/compressed/github_header_image_dev_dark_compressed.gif" type="image/gif">
+        <source media="(prefers-color-scheme: light)" srcset="./img/header_main_image/compressed/github-header-image_dev_light_compressed.gif" type="image/gif">
         <img src="./img/header_main_image/compressed/github-header-image_dev_light_compressed.gif" alt="GIF animation of the main image" style="max-width:100%;max-hight:100%;">
       </picture>
     </div>
@@ -25,8 +25,8 @@
       <a href="https://vk.com/archdeadshadow" target="_blank"><img src="./img/icons/vk.svg" alt="VK" height="30"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://x.com/ArchDeadShadow" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/x-light.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./img/icons/x-dark.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/x-light.svg" type="image/svg+xml">
+        <source media="(prefers-color-scheme: light)" srcset="./img/icons/x-dark.svg" type="image/svg+xml">
         <img src="./img/icons/x-dark.svg" alt="X" height="30">
       </picture></a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.instagram.com/archdeadshadow" target="_blank"><img src="./img/icons/instagram.svg" alt="Instagram" height="30"></a>&nbsp;&nbsp;&nbsp;
@@ -64,16 +64,16 @@
   <footer style="margin: 30px auto;max-width:100%;max-hight:100%;">
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/snake_game_contribution_calendar/github-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./img/snake_game_contribution_calendar/github-snake.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./img/snake_game_contribution_calendar/github-snake-dark.svg" type="image/svg+xml">
+        <source media="(prefers-color-scheme: light)" srcset="./img/snake_game_contribution_calendar/github-snake.svg" type="image/svg+xml">
         <img alt="github-snake" src="./img/snake_game_contribution_calendar/github-snake-dark.svg" style="max-width:100%; max-hight:100%;">
       </picture>
     </div>
     <br>
     <div align="center" style="max-width:100%;max-hight:100%;display: flex;flex-wrap: wrap;justify-content: center;">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/markdown-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./img/icons/markdown-light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/markdown-dark.svg" type="image/svg+xml">
+        <source media="(prefers-color-scheme: light)" srcset="./img/icons/markdown-light.svg" type="image/svg+xml">
       <img src="./img/icons/markdown-light.svg" height="30" alt="Markdown">
       </picture>&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/figma.svg" height="30" alt="Figma">&nbsp;&nbsp;&nbsp;
@@ -90,15 +90,15 @@
       <img src="./img/icons/reactjs.svg" height="30" alt="React">&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/react-query.svg" height="30" alt="React Query">&nbsp;&nbsp;&nbsp;
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/react-router-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./img/icons/react-router-light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/react-router-dark.svg" type="image/svg+xml">
+        <source media="(prefers-color-scheme: light)" srcset="./img/icons/react-router-light.svg" type="image/svg+xml">
         <img src="./img/icons/react-router-light.svg" height="30" alt="React Router">&nbsp;&nbsp;&nbsp;
       </picture>&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/nodejs.svg" height="30" alt="Node.js">&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/npm.svg" height="30" alt="NPM">&nbsp;&nbsp;&nbsp;
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/expressjs-light.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./img/icons/expressjs-dark.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/expressjs-light.svg" type="image/svg+xml">
+        <source media="(prefers-color-scheme: light)" srcset="./img/icons/expressjs-dark.svg" type="image/svg+xml">
         <img src="./img/icons/expressjs-dark.svg" height="30" alt="Express">
       </picture>&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/mongodb.svg" height="30" alt="MongoDB">&nbsp;&nbsp;&nbsp;
