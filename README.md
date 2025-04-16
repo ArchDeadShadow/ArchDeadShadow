@@ -16,7 +16,7 @@
     <h1 align="center" style="margin: 30px auto">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems</h1>
     <h2 align="center" style="margin: 20px auto">⚡ Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization</h2>
     <h3 align="center" style="margin: 10px auto">🚀 Open to collaborations, open-source contributions, and interesting challenges. Feel free to reach out for technical discussions or potential opportunities! Connect with me:</h3>
-    <div align="center" style="margin: 15px auto">
+    <div align="center" style="margin: 15px auto; display: flex;flex-wrap: wrap;gap: 16px;justify-content: center;>
       <a href="mailto:archdeadshadow@icloud.com" target="_blank"><img src="./img/icons/email.svg" alt="Email" height="30" style="margin-right: 10px"></a>
       <a href="https://t.me/ArchDeadShadow" target="_blank"><img src="./img/icons/telegram.svg" alt="Telegram" height="30" style="margin-right: 10px"></a>
       <a href="https://vk.com/archdeadshadow" target="_blank"><img src="./img/icons/vk.svg" alt="VK" height="30" style="margin-right: 10px"></a>
@@ -67,7 +67,7 @@
       </picture>
     </div>
     <br>
-    <div align="center" style="display: flex;flex-wrap: wrap;gap: 4px;justify-content: center;">
+    <div align="center" style="display: flex;flex-wrap: wrap;gap: 16px;justify-content: center;">
       <img src="./img/icons/markdown.svg" height="30" alt="Markdown" style="margin-right: 4px">
       <img src="./img/icons/figma.svg" height="30" alt="Figma" style="margin-right: 4px">
       <img src="./img/icons/html5.svg" height="30" alt="HTML5" style="margin-right: 4px">
