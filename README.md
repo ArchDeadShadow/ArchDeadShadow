@@ -16,8 +16,8 @@
     <h1 align="center" style="margin: 30px auto">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems</h1>
     <h2 align="center" style="margin: 20px auto">⚡ Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization</h2>
     <h3 align="center" style="margin: 10px auto">🚀 Open to collaborations, open-source contributions, and interesting challenges. Feel free to reach out for technical discussions or potential opportunities! Connect with me:</h3>
-    <div align="center" style="margin: 15px auto; display: flex;flex-wrap: wrap;justify-content: center;>
-      <a href="mailto:archdeadshadow@icloud.com" target="_blank"><img src="./img/icons/email.svg" alt="Email" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <div align="center" style="margin: 15px auto; display: flex;flex-wrap: wrap;justify-content: center;">
+      <a href="mailto:archdeadshadow@icloud.com"><img src="./img/icons/email.svg" alt="Email" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://t.me/ArchDeadShadow" target="_blank"><img src="./img/icons/telegram.svg" alt="Telegram" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://vk.com/archdeadshadow" target="_blank"><img src="./img/icons/vk.svg" alt="VK" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://x.com/ArchDeadShadow" target="_blank">
