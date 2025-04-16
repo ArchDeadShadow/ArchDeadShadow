@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <header style="margin: 30px auto">
+  <header style="margin: 30px auto;max-width:100%;max-hight:100%;">
     <div align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/header_main_image/compressed/github_header_image_dev_dark_compressed.gif">
@@ -30,7 +30,7 @@
       <a href="https://www.linkedin.com/in/sergey-r-a52219230" target="_blank"><img src="./img/icons/linkedin.svg" alt="LinkedIn" height="30"></a>&nbsp;&nbsp;&nbsp;
     </div>
   </header>
-  <main style="margin: 30px auto">
+  <main style="margin: 30px auto;max-width:100%;max-hight:100%;">
   <h1 align="center" style="margin: 30px auto;">🦉 Skills</h1>
   <h3 align="center" style="margin: 36px auto">💻 Technical Toolkit</h3>
     <ul align="left">
@@ -58,7 +58,7 @@
       <li>Database optimization techniques</li>
     </ul>
   </main>
-  <footer style="margin: 30px auto">
+  <footer style="margin: 30px auto;max-width:100%;max-hight:100%;">
     <div align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/snake_game_contribution_calendar/github-snake-dark.svg">
@@ -106,7 +106,6 @@
       <h3>💸 Support Me</h3>
       <p><a href="https://www.paypal.com/donate/?hosted_button_id=QCEZHJJG8HRD8" target="_blank"><img src="img/icons/paypal.svg" height="80"></a></p>
     </div>
-
   </footer>
 </body>
 </html>
