@@ -71,7 +71,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./img/icons/markdown-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="./img/icons/markdown-light.svg">
-      <img src="./img/icons/markdown-light.svg" height="30" alt="Markdown">&nbsp;&nbsp;&nbsp;
+      <img src="./img/icons/markdown-light.svg" height="30" alt="Markdown">
       </picture>&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/figma.svg" height="30" alt="Figma">&nbsp;&nbsp;&nbsp;
       <img src="./img/icons/html5.svg" height="30" alt="HTML5">&nbsp;&nbsp;&nbsp;
