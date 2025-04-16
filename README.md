@@ -96,7 +96,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./img/icons/react-router-dark.svg" type="image/svg+xml">
           <source media="(prefers-color-scheme: light)" srcset="./img/icons/react-router-light.svg" type="image/svg+xml">
-          <img src="./img/icons/react-router-light.svg" height="30" alt="React Router">&nbsp;&nbsp;&nbsp;
+          <img src="./img/icons/react-router-light.svg" height="30" alt="React Router">
         </picture>
       </a>&nbsp;&nbsp;&nbsp;
       <a href="https://nodejs.org" target="_blank"><img src="./img/icons/nodejs.svg" height="30" alt="Node.js"></a>&nbsp;&nbsp;&nbsp;
