@@ -17,9 +17,17 @@
     <h2 align="center" style="margin: 20px auto">⚡ Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization</h2>
     <h3 align="center" style="margin: 10px auto">🚀 Open to collaborations, open-source contributions, and interesting challenges. Feel free to reach out for technical discussions or potential opportunities! Connect with me:</h3>
     <div align="center" style="margin: 15px auto">
-      <a href="https://twitter.com/ArchDeadShadow" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a>
-      <a href="https://www.instagram.com/archdeadshadow" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a>
-      <a href="https://www.linkedin.com/in/sergey-r-a52219230" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
+      <a href="mailto:archdeadshadow@icloud.com" target="_blank"><img src="./img/icons/email.svg" alt="Email" height="30" style="margin-right: 10px"></a>
+      <a href="https://t.me/ArchDeadShadow" target="_blank"><img src="./img/icons/telegram.svg" alt="Telegram" height="30" style="margin-right: 10px"></a>
+      <a href="https://vk.com/archdeadshadow" target="_blank"><img src="./img/icons/vk.svg" alt="VK" height="30" style="margin-right: 10px"></a>
+      <a href="https://x.com/ArchDeadShadow" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/x-light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./img/icons/x-dark.svg">
+        <img src="./img/icons/x-dark.svg" alt="X" height="30" style="margin-right: 10px">
+      </picture></a>
+      <a href="https://www.instagram.com/archdeadshadow" target="_blank"><img src="./img/icons/instagram.svg" alt="Instagram" height="30" style="margin-right: 10px"></a>
+      <a href="https://www.linkedin.com/in/sergey-r-a52219230" target="_blank"><img src="./img/icons/linkedin.svg" alt="LinkedIn" height="30" style="margin-right: 10px"></a>
     </div>
   </header>
   <main style="margin: 30px auto">
@@ -60,17 +68,35 @@
     </div>
     <br>
     <div align="center" style="display: flex;flex-wrap: wrap;gap: 4px;justify-content: center;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px">
-      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px">
-      <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px">
-      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px">
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 4px">
+      <img src="./img/icons/markdown.svg" height="30" alt="Markdown" style="margin-right: 4px">
+      <img src="./img/icons/figma.svg" height="30" alt="Figma" style="margin-right: 4px">
+      <img src="./img/icons/html5.svg" height="30" alt="HTML5" style="margin-right: 4px">
+      <img src="./img/icons/css3.svg" height="30" alt="CSS3" style="margin-right: 4px">
+      <img src="./img/icons/sass.svg" height="30" alt="SASS" style="margin-right: 4px">
+      <img src="./img/icons/tailwindcss.svg" height="30" alt="Tailwind CSS" style="margin-right: 4px">
+      <img src="./img/icons/bootstrap5.svg" height="30" alt="Bootstrap" style="margin-right: 4px">
+      <img src="./img/icons/bash.svg" height="30" alt="Bash" style="margin-right: 4px">
+      <img src="./img/icons/git.svg" height="30" alt="GIT" style="margin-right: 4px">
+      <img src="./img/icons/javascript.svg" height="30" alt="JavaScript" style="margin-right: 4px">
+      <img src="./img/icons/typescript.svg" height="30" alt="TypeScript" style="margin-right: 4px">
+      <img src="./img/icons/jquery.svg" height="30" alt="jQuery" style="margin-right: 4px">
+      <img src="./img/icons/reactjs.svg" height="30" alt="React" style="margin-right: 4px">
+      <img src="./img/icons/react-query.svg" height="30" alt="React Query" style="margin-right: 4px">
+      <img src="./img/icons/reactrouter.svg" height="30" alt="React Router" style="margin-right: 4px">
+      <img src="./img/icons/nodejs.svg" height="30" alt="Node.js" style="margin-right: 4px">
+      <img src="./img/icons/npm.svg" height="30" alt="NPM" style="margin-right: 4px">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./img/icons/expressjs-light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./img/icons/expressjs-dark.svg">
+        <img src="./img/icons/expressjs-dark.svg" height="28" alt="Express" style="margin-right: 4px">
+      </picture>
+      <img src="./img/icons/mongodb.svg" height="28" alt="MongoDB" style="margin-right: 4px">
+      <img src="./img/icons/docker.svg" height="28" alt="Docker" style="margin-right: 4px">
     </div>
     <br>
     <div align="center">
       <h3>💸 Support Me</h3>
-      <p><a href="https://www.paypal.com/donate/?hosted_button_id=QCEZHJJG8HRD8" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+      <p><a href="https://www.paypal.com/donate/?hosted_button_id=QCEZHJJG8HRD8" target="_blank"><img src="img/icons/paypal.svg" height="80"></a></p>
     </div>
   </footer>
 </body>
