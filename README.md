@@ -15,7 +15,7 @@
     </picture>
     <div align="center">
       <h1 style="margin: 20px;color: rgb(249,218,98);">Table of Contents</h1>
-      <div style="display: flex;flex-wrap: wrap;justify-content: center;">
+      <div align="left">
         <ul style="list-style: none;padding: 0;margin: 0;font-size: 20px;">
           <li style="margin: 10px;"><a href="#skills" style="text-decoration: none; color:rgb(249,218,98);">🦉 Skills</a></li>
           <li style="margin: 10px;"><a href="#technical-toolkit" style="text-decoration: none; color: rgb(249,218,98);">💻 Technical Toolkit</a></li>
