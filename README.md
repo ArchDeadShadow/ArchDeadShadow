@@ -15,14 +15,14 @@
     </picture>
     <div align="center">
       <h1 style="margin: 20px;color: rgb(249,218,98);">Table of Contents</h1>
-      <ul style="list-style: none;padding: 0;margin: 0;font-size: 20px;text-align: center;display: flex;flex-wrap: wrap;justify-content: center;">
-        <li style="margin: 10px;"><a href="#skills" style="text-decoration: none; color:rgb(249,218,98);">🦉 Skills</a></li>
-        <li style="margin: 10px;"><a href="#technical-toolkit" style="text-decoration: none; color: rgb(249,218,98);">💻 Technical Toolkit</a></li>
-        <li style="margin: 10px;"><a href="#what-i-do-best" style="text-decoration: none; color: rgb(249,218,98);">😎 What I Do Best</a></li>
-        <li style="margin: 10px;"><a href="#current-focus" style="text-decoration: none; color: rgb(249,218,98);">📌 Current Focus</a></li>
-        <li style="margin: 10px;"><a href="#featured-projects" style="text-decoration: none; color: rgb(249,218,98);">🗂️ Featured Projects</a></li>
-        <li style="margin: 10px;"><a href="#github-stats" style="text-decoration: none; color: rgb(249,218,98);">📊 GitHub Stats</a></li>
-        <li style="margin: 10px;"><a href="#support-me" style="text-decoration: none; color: rgb(249,218,98);">💸 Support Me</a></li>
+      <ul style="padding: 0;margin: 0;font-size: 20px;display: flex;flex-wrap: wrap;justify-content: center;">
+        <li style="margin: 20px;"><a href="#skills" style="text-decoration: none; color:rgb(249,218,98);">🦉 Skills</a></li>
+        <li style="margin: 20px;"><a href="#technical-toolkit" style="text-decoration: none; color: rgb(249,218,98);">💻 Technical Toolkit</a></li>
+        <li style="margin: 20px;"><a href="#what-i-do-best" style="text-decoration: none; color: rgb(249,218,98);">😎 What I Do Best</a></li>
+        <li style="margin: 20px;"><a href="#current-focus" style="text-decoration: none; color: rgb(249,218,98);">📌 Current Focus</a></li>
+        <li style="margin: 20px;"><a href="#featured-projects" style="text-decoration: none; color: rgb(249,218,98);">🗂️ Featured Projects</a></li>
+        <li style="margin: 20px;"><a href="#github-stats" style="text-decoration: none; color: rgb(249,218,98);">📊 GitHub Stats</a></li>
+        <li style="margin: 20px;"><a href="#support-me" style="text-decoration: none; color: rgb(249,218,98);">💸 Support Me</a></li>
       </ul>
     </div>
     <h1 align="center" style="margin: 30px auto;">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems</h1>
