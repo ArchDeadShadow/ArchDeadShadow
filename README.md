@@ -17,6 +17,8 @@
       <h1 style="margin: 20px;color: rgb(249,218,98);">Table of Contents</h1>
       <div align="left">
         <ul style="list-style: none;padding: 0;margin: 0;font-size: 20px;">
+          <li style="margin: 10px;"><a href="#about-me" style="text-decoration: none; color:rgb(249,218,98);">😊 About Me</a></li>
+          <li style="margin: 10px;"><a href="#connect-with-me" style="text-decoration: none; color:rgb(249,218,98);">📱 Connect with me</a></li>
           <li style="margin: 10px;"><a href="#skills" style="text-decoration: none; color:rgb(249,218,98);">🦉 Skills</a></li>
           <li style="margin: 10px;"><a href="#technical-toolkit" style="text-decoration: none; color: rgb(249,218,98);">💻 Technical Toolkit</a></li>
           <li style="margin: 10px;"><a href="#what-i-do-best" style="text-decoration: none; color: rgb(249,218,98);">😎 What I Do Best</a></li>
@@ -27,9 +29,9 @@
         </ul>
       </div>
     </div>
-    <h1 align="center" style="margin: 30px auto;">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems</h1>
+    <h1 id="about-me" align="center" style="margin: 30px auto;">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems</h1>
     <h2 align="center" style="margin: 20px auto;">⚡ Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization</h2>
-    <h3 align="center" style="margin: 10px auto;">🚀 Open to collaborations, open-source contributions, and interesting challenges. Feel free to reach out for technical discussions or potential opportunities! Connect with me:</h3>
+    <h3 align="center" style="margin: 10px auto;">🚀 Open to collaborations, open-source contributions, and interesting challenges. Feel free to reach out for technical discussions or potential opportunities!<br><span id="connect-with-me">Connect with me:</span></h3>
     <div align="center" style="margin: 15px auto;max-width:100%;max-hight:100%;display: flex;flex-wrap: wrap;justify-content: center;">
       <a href="mailto:archdeadshadow@icloud.com"><img src="./img/icons/email.svg" alt="Email" height="30"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://t.me/ArchDeadShadow" target="_blank"><img src="./img/icons/telegram.svg" alt="Telegram" height="30"></a>&nbsp;&nbsp;&nbsp;
