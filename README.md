@@ -9,11 +9,21 @@
 </head>
 <body>
   <header style="margin: 30px auto;max-width:100%;max-hight:100%;">
+    <picture>
+      <source srcset="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" type="image/gif">
+      <img src="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" alt="GIF animation of the main JS image" style="max-width:100%;max-hight:100%;">
+    </picture>
     <div align="center">
-      <picture>
-        <source srcset="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" type="image/gif">
-        <img src="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" alt="GIF animation of the main JS image" style="max-width:100%;max-hight:100%;">
-      </picture>
+      <h1 style="margin: 20px;color: rgb(249,218,98);">Table of Contents</h1>
+      <ul style="list-style: none;padding: 0;margin: 0;font-size: 20px;text-align: center;display: flex;flex-wrap: wrap;justify-content: center;">
+        <li style="margin: 10px;"><a href="#skills" style="text-decoration: none; color:rgb(249,218,98);">🦉 Skills</a></li>
+        <li style="margin: 10px;"><a href="#technical-toolkit" style="text-decoration: none; color: rgb(249,218,98);">💻 Technical Toolkit</a></li>
+        <li style="margin: 10px;"><a href="#what-i-do-best" style="text-decoration: none; color: rgb(249,218,98);">😎 What I Do Best</a></li>
+        <li style="margin: 10px;"><a href="#current-focus" style="text-decoration: none; color: rgb(249,218,98);">📌 Current Focus</a></li>
+        <li style="margin: 10px;"><a href="#featured-projects" style="text-decoration: none; color: rgb(249,218,98);">🗂️ Featured Projects</a></li>
+        <li style="margin: 10px;"><a href="#github-stats" style="text-decoration: none; color: rgb(249,218,98);">📊 GitHub Stats</a></li>
+        <li style="margin: 10px;"><a href="#support-me" style="text-decoration: none; color: rgb(249,218,98);">💸 Support Me</a></li>
+      </ul>
     </div>
     <h1 align="center" style="margin: 30px auto;">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems</h1>
     <h2 align="center" style="margin: 20px auto;">⚡ Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization</h2>
@@ -34,8 +44,8 @@
     </div>
   </header>
   <main style="margin: 30px auto;max-width:100%;max-hight:100%;">
-  <h1 align="center" style="margin: 30px auto;">🦉 Skills</h1>
-  <h3 align="center" style="margin: 36px auto;">💻 Technical Toolkit</h3>
+  <h1 id="skills" align="center" style="margin: 30px auto;">🦉 Skills</h1>
+  <h3 id="technical-toolkit" align="center" style="margin: 36px auto;">💻 Technical Toolkit</h3>
     <ul align="left">
       <li><strong>Languages</strong>: JavaScript (ES6+), HTML5, CSS3</li>
       <li><strong>Frontend</strong>: React.js (Hooks, Context API, React Router)</li>
@@ -43,16 +53,16 @@
       <li><strong>Databases</strong>: MongoDB (Mongoose ODM, database design)</li>
       <li><strong>Tools</strong>: Git, REST APIs, Webpack, npm/yarn</li>
     </ul>
-    <h3 align="center" style="margin: 36px auto;">😎 What I Do Best</h3>
+    <h3 id="what-i-do-best" align="center" style="margin: 36px auto;">😎 What I Do Best</h3>
     <ul align="left">
       <li>Develop responsive SPAs with React</li>
       <li>Create RESTful APIs using Node.js/Express</li>
       <li>Design efficient database architectures with MongoDB</li>
       <li>Implement full-stack solutions from concept to deployment</li>
     </ul>
-    <h3 align="center" style="margin: 36px auto;">📌 Current Focus</h3>
+    <h3 id="current-focus" align="center" style="margin: 36px auto;">📌 Current Focus</h3>
     <p align="center" style="margin: 16px auto;">Sharpening my skills in performance optimization and exploring TypeScript integration. Always learning new patterns and best practices!</p>
-    <h3 align="center" style="margin: 36px auto;">🗂️ Featured Projects</h3>
+    <h3 id="featured-projects" align="center" style="margin: 36px auto;">🗂️ Featured Projects</h3>
     <p align="center" style="margin: 16px auto;">Check out my repositories below to see examples of:</p>
     <ul align="left">
       <li>Full-stack <strong>MERN</strong> applications</li>
@@ -111,7 +121,7 @@
       <a href="https://www.docker.com" target="_blank"><img src="./img/icons/docker.svg" height="30" alt="Docker"></a>&nbsp;&nbsp;&nbsp;
     </div>
     <div align="center">
-      <h3>GitHub Stats</h3>
+      <h3 id="github-stats">📊 GitHub Stats</h3>
       <div style="max-width:100%;max-hight:100%;display: flex;flex-wrap: wrap;justify-content: center;">
         <!-- <img src="https://github-readme-stats.vercel.app/api?username=ArchDeadShadow&theme=transparent&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=24&custom_title=ArchDeadShadow&hide_border=true" alt="GitHub stats Card"/> -->
         <img src="https://streak-stats.demolab.com/?user=ArchDeadShadow&theme=transparent&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&card_height=200&stroke=transparent&border=transparent" alt="GitHub streak Card"/>
@@ -120,7 +130,7 @@
     </div>
     <br>
     <div align="center" style="max-width:100%;max-hight:100%;">
-      <h3>💸 Support Me</h3>
+      <h3 id="support-me">💸 Support Me</h3>
       <p><a href="https://www.paypal.com/donate/?hosted_button_id=QCEZHJJG8HRD8" target="_blank"><img src="img/icons/paypal.svg" height="80"></a></p>
     </div>
   </footer>
