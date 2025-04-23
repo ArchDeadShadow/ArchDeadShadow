@@ -10,7 +10,10 @@
 <body>
   <header style="margin: 30px auto;max-width:100%;max-hight:100%;">
     <div align="center">
-    <img src="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" alt="GIF animation of the main JS image" style="max-width:100%;max-hight:100%;">
+      <picture>
+        <source srcset="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" type="image/gif">
+        <img src="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" alt="GIF animation of the main JS image" style="max-width:100%;max-hight:100%;">
+      </picture>
     </div>
     <h1 align="center" style="margin: 30px auto;">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems</h1>
     <h2 align="center" style="margin: 20px auto;">⚡ Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization</h2>
