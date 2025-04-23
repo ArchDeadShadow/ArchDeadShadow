@@ -110,6 +110,14 @@
       <a href="https://www.mongodb.com" target="_blank"><img src="./img/icons/mongodb.svg" height="30" alt="MongoDB"></a>&nbsp;&nbsp;&nbsp;
       <a href="https://www.docker.com" target="_blank"><img src="./img/icons/docker.svg" height="30" alt="Docker"></a>&nbsp;&nbsp;&nbsp;
     </div>
+    <div align="center">
+      <h3>GitHub Stats</h3>
+      <div style="max-width:100%;max-hight:100%;display: flex;flex-wrap: wrap;justify-content: center;">
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=ArchDeadShadow&theme=transparent&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=24&custom_title=ArchDeadShadow&hide_border=true" alt="GitHub stats Card"/> -->
+        <img src="https://streak-stats.demolab.com/?user=ArchDeadShadow&theme=transparent&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&card_height=200&stroke=transparent&border=transparent" alt="GitHub streak Card"/>
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArchDeadShadow&theme=transparent&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true&disable_animations=false" alt="GitHub top-langs Card"/> -->
+      </div>
+    </div>
     <br>
     <div align="center" style="max-width:100%;max-hight:100%;">
       <h3>💸 Support Me</h3>
