@@ -11,9 +11,9 @@
   <header style="margin: 30px auto;max-width:100%;max-hight:100%;">
     <div align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./img/header_main_image/compressed/github_header_image_dev_dark_compressed.gif" type="image/gif">
-        <source media="(prefers-color-scheme: light)" srcset="./img/header_main_image/compressed/github-header-image_dev_light_compressed.gif" type="image/gif">
-        <img src="./img/header_main_image/compressed/github-header-image_dev_light_compressed.gif" alt="GIF animation of the main image" style="max-width:100%;max-hight:100%;">
+        <source media="(prefers-color-scheme: dark)" srcset="./img/header_main_image/compressed/robot_img_dark_compressed.gif" type="image/gif">
+        <source media="(prefers-color-scheme: light)" srcset="./img/header_main_image/compressed/robot_img_light_compressed.gif" type="image/gif">
+        <img src="./img/header_main_image/compressed/robot_img_light_compressed.gif" alt="GIF animation of the main image" style="max-width:100%;max-hight:100%;">
       </picture>
     </div>
     <h1 align="center" style="margin: 30px auto;">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems</h1>
