@@ -74,7 +74,7 @@
           <img src="./img/snake_game_contribution_calendar/github-snake-dark.svg" alt="GitHub Snake" style="max-width: 100%; max-height: 100%;">
         </picture>
       </div>
-      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 20px;">
+      <div align="center" style="margin: 20px; display: flex; flex-wrap: wrap; justify-content: center; margin-top: 20px;">
         <a href="https://www.markdownguide.org" target="_blank"><img src="./img/icons/markdown-light.svg" height="30" alt="Markdown"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.figma.com/" target="_blank"><img src="./img/icons/figma.svg" height="30" alt="Figma"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./img/icons/html5.svg" height="30" alt="HTML5"></a>&nbsp;&nbsp;&nbsp;
