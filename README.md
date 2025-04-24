@@ -20,7 +20,7 @@
         <ul style="padding: 0; margin: 0;">
           <li style="padding-left: 1rem; text-indent: -0.75rem;"><a href="#about-me">About Me</a></li>
           <li style="padding-left: 1rem; text-indent: -0.75rem;"><a href="#skills">Skills</a></li>
-          <li style="padding-left: 1rem; text-indent: -0.75rem;"><a href="#github-stats"> GitHub Stats</a><li>
+          <li style="padding-left: 1rem; text-indent: -0.75rem;"><a href="#github-stats"> GitHub Stats</a></li>
           <li style="padding-left: 1rem; text-indent: -0.75rem;"><a href="#support-me"> Support Me</a></li>
         </ul>
     </div>
