@@ -29,8 +29,9 @@
   <main style="margin: 30px auto; max-width: 100%; max-height: 100%;">
     <section id="about-me" align="center">
       <h3>😊 About Me</h3>
-      <p style="margin: 30px auto;">👋 Hi there! I'm a JavaScript developer passionate about building modern web applications and scalable solutions. My expertise lies in crafting interactive user interfaces and robust backend systems.</p>
-      <p style="margin: 20px auto;">⚡ Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</p>
+      <p style="margin: 30px auto;">Hello! 👋 I’m a full-stack JavaScript developer 💻 passionate about building modern, high-performance web and back-end systems 🚀. I specialize in React ⚛️, using hooks 🪝, Context API 🧠, and component-based architecture 🧱 to craft dynamic, responsive SPAs 📱. I boost performance and SEO with Next.js ⚡ and apply clean styling via styled-components 🎨 or Tailwind CSS 🌬️.</p>
+      <p style="margin: 30px auto;">On the server 🖥️, I develop REST 🔗 and GraphQL 🧬 APIs with Node.js frameworks 🌲, structure code into modular services 🧩, and design microservices communicating via message queues 📬. I integrate authentication using JWT 🔐 and OAuth2 🛡️, and automate testing 🧪 and deployments 🚚 with CI/CD pipelines ⚙️.</p>
+      <p style="margin: 30px auto;">For data persistence 🗃️, I model schemas in MongoDB 🍃 with Mongoose 🐍, optimize queries through indexing 📇 and aggregation 📊, and leverage MongoDB Atlas ☁️ for scalable, managed databases. Committed to performance ⚡, security 🛡️, and maintainability 🧼, I collaborate across teams 🤝, mentor peers 👨‍🏫, and contribute to open-source 🌍. Let’s connect 🤝 to tackle challenging projects 🧠 and explore innovative solutions 💡!</p>
       <p style="margin: 10px auto;">🚀 Open to collaborations, open-source contributions, and interesting challenges. Feel free to reach out for technical discussions or potential opportunities!</p>
       <h4>Connect with me:</h3>
       <div style="margin: 15px auto; display: flex; flex-wrap: wrap; justify-content: center;">
