@@ -69,7 +69,11 @@
       <p>Sharpening my skills in performance optimization and exploring TypeScript integration. Always learning new patterns and best practices!</p>
       <br>
       <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <a href="https://www.markdownguide.org" target="_blank"><img src="./img/icons/markdown-light.svg" height="30" alt="Markdown"></a>&nbsp;&nbsp;&nbsp;
+        <a href="https://www.markdownguide.org" target="_blank">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./img/icons/markdown-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="./img/icons/markdown-light.svg">
+            <img src="./img/icons/markdown-light.svg" height="30" alt="Markdown"></picture></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.figma.com/" target="_blank"><img src="./img/icons/figma.svg" height="30" alt="Figma"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./img/icons/html5.svg" height="30" alt="HTML5"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank"><img src="./img/icons/css3.svg" height="30" alt="CSS3"></a>&nbsp;&nbsp;&nbsp;
