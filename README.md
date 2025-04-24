@@ -67,14 +67,14 @@
       </ul>
       <h4>📌 Current Focus</h4>
       <p>Sharpening my skills in performance optimization and exploring TypeScript integration. Always learning new patterns and best practices!</p>
-      <div align="center">
+      <div align="center" style="margin: 20px;>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./img/snake_game_contribution_calendar/github-snake-dark.svg" type="image/svg+xml">
           <source media="(prefers-color-scheme: light)" srcset="./img/snake_game_contribution_calendar/github-snake.svg" type="image/svg+xml">
           <img src="./img/snake_game_contribution_calendar/github-snake-dark.svg" alt="GitHub Snake" style="max-width: 100%; max-height: 100%;">
         </picture>
       </div>
-      <div align="center" style="margin: 20px; display: flex; flex-wrap: wrap; justify-content: center; margin-top: 20px;">
+      <div align="center" style="margin: 20px; display: flex; flex-wrap: wrap; justify-content: center;">
         <a href="https://www.markdownguide.org" target="_blank"><img src="./img/icons/markdown-light.svg" height="30" alt="Markdown"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.figma.com/" target="_blank"><img src="./img/icons/figma.svg" height="30" alt="Figma"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./img/icons/html5.svg" height="30" alt="HTML5"></a>&nbsp;&nbsp;&nbsp;
@@ -94,8 +94,7 @@
           <source media="(prefers-color-scheme: dark)" srcset="./img/icons/react-router-dark.svg" type="image/svg+xml">
           <source media="(prefers-color-scheme: light)" srcset="./img/icons/react-router-light.svg" type="image/svg+xml">
           <img src="./img/icons/react-router-light.svg" height="30" alt="React Router">
-        </picture>
-      </a>&nbsp;&nbsp;&nbsp;
+        </picture></a>&nbsp;&nbsp;&nbsp;
         <a href="https://nodejs.org" target="_blank"><img src="./img/icons/nodejs.svg" height="30" alt="Node.js"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.npmjs.com/" target="_blank"><img src="./img/icons/npm.svg" height="30" alt="NPM"></a>&nbsp;&nbsp;&nbsp;
          <a href="https://expressjs.com" target="_blank">
@@ -103,8 +102,7 @@
           <source media="(prefers-color-scheme: dark)" srcset="./img/icons/expressjs-light.svg" type="image/svg+xml">
           <source media="(prefers-color-scheme: light)" srcset="./img/icons/expressjs-dark.svg" type="image/svg+xml">
           <img src="./img/icons/expressjs-dark.svg" height="30" alt="Express">
-        </picture>
-      </a>&nbsp;&nbsp;&nbsp;
+        </picture></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.mongodb.com" target="_blank"><img src="./img/icons/mongodb.svg" height="30" alt="MongoDB"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.docker.com" target="_blank"><img src="./img/icons/docker.svg" height="30" alt="Docker"></a>&nbsp;&nbsp;&nbsp;
       </div>
