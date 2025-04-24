@@ -8,7 +8,6 @@
   <meta name="author" content="Sergey Rudenko (ArchDeadShadow)">
   <meta name="description" content="Sergey Rudenko (ArchDeadShadow) – Fullstack JavaScript Developer specializing in React, Node.js, and MongoDB. Experienced in building scalable Single Page Applications (SPAs), REST APIs, and modern front-end interfaces using React.js, TypeScript, Tailwind CSS, and Express.js. Passionate about clean code, performance optimization, and open-source development.">
   <!-- <title>Sergey Rudenko (ArchDeadShadow) - Fullstack Developer</title> -->
-  <style>.styled { list-style: none; padding: 0; margin: 0; } .styled li { padding-left: 1rem; text-indent: -0.75rem; } .styled li::before { content: "📑 ";}</style>
 </head>
 <body>
   <header style="margin: 30px auto; max-width: 100%; max-height: 100%;">
@@ -17,12 +16,12 @@
       <img src="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" srcset="./img/header_main_image/compressed/js_animation_header_img_compressed.gif 600w, ./img/header_main_image/compressed/js_animation_header_img_compressed.gif 1200w" sizes="(max-width: 600px) 100vw, 50vw" loading="lazy" alt="GIF animation of the main JS image">
     </picture>
     <div align="left">
-      <h2 style="margin: 20px;">Table of Contents</h3>
-        <ul class="styled">
-          <li><a href="#about-me">About Me</a></li>
-          <li><a href="#skills">Skills</a></li>
-          <li><a href="#github-stats"> GitHub Stats</a></li>
-          <li><a href="#support-me"> Support Me</a></li>
+      <h2 style="margin: 20px;">🗂 Table of Contents</h3>
+        <ul style="list-style-type: '\1F4CC'; padding: 0; margin: 0;">
+          <li style="padding-left: 1rem; text-indent: -0.75rem;"><a href="#about-me">About Me</a></li>
+          <li style="padding-left: 1rem; text-indent: -0.75rem;"><a href="#skills">Skills</a></li>
+          <li style="padding-left: 1rem; text-indent: -0.75rem;"><a href="#github-stats"> GitHub Stats</a></li>
+          <li style="padding-left: 1rem; text-indent: -0.75rem;"><a href="#support-me"> Support Me</a></li>
         </ul>
     </div>
   </header>
