@@ -20,7 +20,7 @@
         <ul style="padding: 0; margin: 0;">
           <li style="margin: 10px;"><a href="#about-me">😊 About Me</a></li>
           <li style="margin: 10px;"><a href="#skills">🦉 Skills</a></li>
-          <li style="margin: 10px;"><a href="#github-stats">📊 GitHub Stats</a></li>
+          <li style="margin: 10px;"><a href="#github-stats">⭐️ GitHub Stats</a></li>
           <li style="margin: 10px;"><a href="#support-me">💸 Support Me</a></li>
         </ul>
       </div>
@@ -117,9 +117,12 @@
   </main>
   <footer style="margin: 30px auto; max-width: 100%; max-height: 100%;">
    <section id="github-stats" align="center">
-      <h3>📊 GitHub Stats</h3>
-      <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <img src="https://streak-stats.demolab.com/?user=ArchDeadShadow&theme=transparent&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=true&hide_current_streak=false&hide_longest_streak=false&card_height=200&stroke=transparent&border=transparent" alt="GitHub streak Card">
+      <h3>⭐️ GitHub Stats</h3>
+      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ArchDeadShadow&theme=transparent&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24&hide_border=true&rank_icon=github&show=&text_bold=true&number_format=short" alt="GitHub stats Card" />
+        <img src="https://streak-stats.demolab.com/?user=ArchDeadShadow&theme=transparent&hide_border=false&date_format=d+F%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&border=transparent&stroke=transparent&exclude_days=" alt="GitHub streak Card" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArchDeadShadow&theme=transparent&hide_title=false&layout=compact&langs_count=4&hide_progress=true&card_width=400&title_color=Blue&text_color=Blue&hide_border=true&icon_color=Blue" alt="GitHub top-langs Card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArchDeadShadow&repo=ArchDeadShadow&show_owner=true&theme=transparent&hide_border=true" alt="GitHub repo-card Card" />
       </div>
     </section>
     <section id="support-me" align="center">
