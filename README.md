@@ -8,23 +8,22 @@
   <meta name="author" content="Sergey Rudenko (ArchDeadShadow)">
   <meta name="description" content="Sergey Rudenko (ArchDeadShadow) – Fullstack JavaScript Developer specializing in React, Node.js, and MongoDB. Experienced in building scalable Single Page Applications (SPAs), REST APIs, and modern front-end interfaces using React.js, TypeScript, Tailwind CSS, and Express.js. Passionate about clean code, performance optimization, and open-source development.">
   <!-- <title>Sergey Rudenko (ArchDeadShadow) - Fullstack Developer</title> -->
+  <style>.styled { list-style: none; padding: 0; margin: 0; } .styled li { padding-left: 1rem; text-indent: -0.75rem; } .styled li::before { content: "📑 ";}</style>
 </head>
 <body>
   <header style="margin: 30px auto; max-width: 100%; max-height: 100%;">
     <picture>
       <source srcset="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" type="image/gif">
-      <img src="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" loading="lazy" alt="GIF animation of the main JS image" style="max-width: 100%; max-height: 100%;">
+      <img src="./img/header_main_image/compressed/js_animation_header_img_compressed.gif" srcset="./img/header_main_image/compressed/js_animation_header_img_compressed.gif 600w, ./img/header_main_image/compressed/js_animation_header_img_compressed.gif 1200w" sizes="(max-width: 600px) 100vw, 50vw" loading="lazy" alt="GIF animation of the main JS image">
     </picture>
-    <div align="center">
-      <h3 style="margin: 20px;">Table of Contents</h3>
-      <div align="left">
-        <ul style="padding: 0; margin: 0;">
-          <li style="margin: 10px;"><a href="#about-me">😊 About Me</a></li>
-          <li style="margin: 10px;"><a href="#skills">🦉 Skills</a></li>
-          <li style="margin: 10px;"><a href="#github-stats">⭐️ GitHub Stats</a></li>
-          <li style="margin: 10px;"><a href="#support-me">💸 Support Me</a></li>
+    <div align="left">
+      <h2 style="margin: 20px;">Table of Contents</h3>
+        <ul class="styled">
+          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#github-stats"> GitHub Stats</a></li>
+          <li><a href="#support-me"> Support Me</a></li>
         </ul>
-      </div>
     </div>
   </header>
   <main style="margin: 30px auto; max-width: 100%; max-height: 100%;">
@@ -35,7 +34,7 @@
       <p style="margin: 30px auto;">For data persistence 🗃️, I model schemas in MongoDB 🍃 with Mongoose 🐍, optimize queries through indexing 📇 and aggregation 📊, and leverage MongoDB Atlas ☁️ for scalable, managed databases. Committed to performance ⚡, security 🛡️, and maintainability 🧼, I collaborate across teams 🤝, mentor peers 👨‍🏫, and contribute to open-source 🌍. Let’s connect 🤝 to tackle challenging projects 🧠 and explore innovative solutions 💡!</p>
       <p style="margin: 10px auto;">🚀 Open to collaborations, open-source contributions, and interesting challenges. Feel free to reach out for technical discussions or potential opportunities!</p>
       <h4>Connect with me:</h3>
-      <div style="margin: 15px auto; display: flex; flex-wrap: wrap; justify-content: center;">
+      <div style="margin: 15px auto; display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
         <a href="mailto:archdeadshadow@icloud.com"><img src="./img/icons/email.svg" loading="lazy" alt="Email" height="30"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://t.me/ArchDeadShadow" target="_blank"><img src="./img/icons/telegram.svg" loading="lazy" alt="Telegram" height="30"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://vk.com/archdeadshadow" target="_blank"><img src="./img/icons/vk.svg" loading="lazy" alt="VK" height="30"></a>&nbsp;&nbsp;&nbsp;
@@ -70,12 +69,13 @@
       <h4>📌 Current Focus</h4>
       <p>Sharpening my skills in performance optimization and exploring TypeScript integration. Always learning new patterns and best practices!</p>
       <br>
-      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
         <a href="https://www.markdownguide.org" target="_blank">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./img/icons/markdown-dark.svg">
             <source media="(prefers-color-scheme: light)" srcset="./img/icons/markdown-light.svg">
-            <img src="./img/icons/markdown-light.svg" loading="lazy" height="30" alt="Markdown"></picture></a>&nbsp;&nbsp;&nbsp;
+            <img src="./img/icons/markdown-light.svg" loading="lazy" height="30" alt="Markdown">
+          </picture></a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.figma.com/" target="_blank"><img src="./img/icons/figma.svg" loading="lazy" height="30" alt="Figma"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./img/icons/html5.svg" loading="lazy" height="30" alt="HTML5"></a>&nbsp;&nbsp;&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank"><img src="./img/icons/css3.svg" loading="lazy" height="30" alt="CSS3"></a>&nbsp;&nbsp;&nbsp;
@@ -111,7 +111,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./img/snake_game_contribution_calendar/github-snake-dark.svg" type="image/svg+xml">
           <source media="(prefers-color-scheme: light)" srcset="./img/snake_game_contribution_calendar/github-snake.svg" type="image/svg+xml">
-          <img src="./img/snake_game_contribution_calendar/github-snake-dark.svg" loading="lazy" alt="GitHub Snake" style="max-width: 100%; max-height: 100%;">
+          <img src="./img/snake_game_contribution_calendar/github-snake-dark.svg" srcset="./img/snake_game_contribution_calendar/github-snake-dark.svg 600w, ./img/snake_game_contribution_calendar/github-snake-dark.svg 1200w" sizes="(max-width: 600px) 100vw, 50vw" loading="lazy" alt="GitHub Snake">
         </picture>
       </div>
     </section>
@@ -119,7 +119,7 @@
   <footer style="margin: 30px auto; max-width: 100%; max-height: 100%;">
    <section id="github-stats" align="center">
       <h3>⭐️ GitHub Stats</h3>
-      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+      <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=ArchDeadShadow&theme=transparent&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24&hide_border=true&rank_icon=github&show=&text_bold=true&number_format=short" loading="lazy" alt="GitHub stats Card" />
         <img src="https://streak-stats.demolab.com/?user=ArchDeadShadow&theme=transparent&hide_border=false&date_format=d+F%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&border=transparent&stroke=transparent&exclude_days=" loading="lazy" alt="GitHub streak Card" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArchDeadShadow&theme=transparent&hide_title=false&layout=compact&langs_count=4&hide_progress=true&card_width=400&title_color=Blue&text_color=Blue&hide_border=true&icon_color=Blue" alt="GitHub top-langs Card" loading="lazy" />
